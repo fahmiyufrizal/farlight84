@@ -4,7 +4,7 @@ Designed for Diskless
 ## Fitur
 - Unload registry & Folders
 - Auto Import Registry & Folders
-- Support Static Mode
+- Support Static Mode (First install only)
 - Auto Initialize AntiCheat (for faster load)
 
 ## Cara Pakai
