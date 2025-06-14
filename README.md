@@ -2,23 +2,18 @@
 Designed for Diskless
 
 ## Fitur
-- Unload registry & Folders
-- Auto Import Registry & Folders
+- Unload Folders
+- Auto Symlink Folders
 - Support Static Mode (First install only)
-- Auto Initialize AntiCheat (for faster load)
 
 ## Cara Pakai
-0. Letakkan di dalam folder Farlight84 berdampingan dengan Farlight84Launcher.exe
-1. Jalankan terlebih dahulu _Initialize_and_export.bat
-2. Setelah selesai, tutup, dan set Farlight84_NetCafe_Launcher.exe sebagai launcher client
+0. Letakkan di dalam folder Farlight Launcher berdampingan dengan Launcher.exe
+1. Buka Farlight_Netcafe_Launcher.exe untuk unload
+2. Set Farlight_NetCafe_Launcher.exe sebagai launcher client
 
-## Command-Line argument
-- -e atau --export : Export Registry & Folder yang dibutuhkan Farlight84
-- -st atau --static : Inisiasi Static Mode yang berguna untuk drive-letter gamedisk yang berbeda
+## Static Mode
+Buat file ".static_mode" tanpa petik untuk menjalankan static mode. Silahkan locate farlight/AFK Journey ke Symlink C
 
-## Notes
-- Jalankan _Initialize_Static_Mode bila memiliki drive-letter gamedisk yang berbeda
-- Jalankan ulang _Initialize_and_export.bat bila saat update server, server sudah terupdate namun client masih memerlukan update (biasanya karena mismatch version)
 
 ## Thank's to
 - Allah SWT
